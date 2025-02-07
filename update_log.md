@@ -1,4 +1,4 @@
-# SynoGet Update Log
+# Update Log
 
 ## v1.0 (2/15/2025）
 A new start！🎉🎉🎉🎉
